@@ -1,4 +1,4 @@
-# 🚀 Getting started with Strapi
+#  Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
@@ -32,7 +32,7 @@ npm run build
 yarn build
 ```
 
-## ⚙️ Deployment
+##  Deployment
 
 Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
 
