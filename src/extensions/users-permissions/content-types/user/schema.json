@@ -68,6 +68,10 @@
       "relation": "oneToOne",
       "target": "api::profile.profile",
       "inversedBy": "user"
+    },
+    "perm": {
+      "type": "string",
+      "required": true
     }
   }
 }
